@@ -1,0 +1,4 @@
+node_modules/
+src/tests/
+wallaby.js
+yarn.lock
